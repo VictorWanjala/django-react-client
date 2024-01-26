@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.show-products-nav{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #282c34;
+}
+
+.add-product-nav{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #282c34;
+}
+
+.products-card-info{
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  padding: 2px;
+}
